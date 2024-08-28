@@ -1,1 +1,1 @@
-# abc
+docker compose up --build
